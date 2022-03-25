@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.stringee.stringeeflutterplugin" >
+4
+5    <uses-sdk android:minSdkVersion="20" />
+5-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:4:5-67
+7-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:4:22-64
+8    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+8-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:5:5-79
+8-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:5:22-76
+9    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+9-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:6:5-76
+9-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:6:22-73
+10    <uses-permission android:name="android.permission.CAMERA" />
+10-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:7:5-65
+10-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:7:22-62
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:8:5-71
+11-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:8:22-68
+12    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+12-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:9:5-80
+12-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:9:22-77
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:10:5-68
+13-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:10:22-65
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:11:5-68
+14-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:11:22-65
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:12:5-66
+15-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:12:22-63
+16    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+16-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:13:5-75
+16-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:13:22-72
+17    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+17-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:14:5-78
+17-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:14:22-75
+18    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+18-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:15:5-81
+18-->D:\Workspace\stringee_flutter_plugin\android\src\main\AndroidManifest.xml:15:22-78
+19
+20</manifest>

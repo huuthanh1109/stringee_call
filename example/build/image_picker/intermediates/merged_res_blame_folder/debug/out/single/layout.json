@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\image_picker\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

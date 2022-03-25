@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

@@ -1,0 +1,88 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run --machine --start-paused -d emulator-5554 --dart-define=flutter.inspector.structuredErrors=true --web-allow-expose-url --devtools-server-address http://127.0.0.1:9101/ --target lib\main.dart
+
+## exception
+
+ProcessException: ProcessException: The paging file is too small for this operation to complete.
+
+  Command: D:\Workspace\Flutter\flutter\bin\cache\dart-sdk\bin\dart.exe --disable-dart-dev D:\Workspace\Flutter\flutter\bin\cache\artifacts\engine\windows-x64\frontend_server.dart.snapshot --sdk-root D:\Workspace\Flutter\flutter\bin\cache\artifacts\engine\common\flutter_patched_sdk/ --incremental --target=flutter --debugger-module-names --experimental-emit-debug-metadata -Dflutter.inspector.structuredErrors=true -DFLUTTER_WEB_AUTO_DETECT=true --output-dill C:\Users\Thanh.00\AppData\Local\Temp\flutter_tools.a51a2ad7\flutter_tool.6fe5e34b\app.dill --packages D:\Workspace\flutter_rubicon\stringee_flutter_plugin\example\.dart_tool\package_config.json -Ddart.vm.profile=false -Ddart.vm.product=false --enable-asserts --track-widget-creation --filesystem-scheme org-dartlang-root --initialize-from-dill build\4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill --enable-experiment=alternative-invalidation-strategy
+
+```
+#0      _ProcessImpl._start (dart:io-patch/process_patch.dart:390:33)
+#1      Process.start (dart:io-patch/process_patch.dart:36:20)
+#2      LocalProcessManager.start (package:process/src/interface/local_process_manager.dart:44:22)
+#3      ErrorHandlingProcessManager.start.<anonymous closure> (package:flutter_tools/src/base/error_handling_io.dart:691:24)
+#4      _run (package:flutter_tools/src/base/error_handling_io.dart:567:20)
+#5      ErrorHandlingProcessManager.start (package:flutter_tools/src/base/error_handling_io.dart:690:12)
+#6      DefaultResidentCompiler._compile (package:flutter_tools/src/compile.dart:756:37)
+#7      DefaultResidentCompiler._recompile (package:flutter_tools/src/compile.dart:651:14)
+#8      _RecompileRequest._run (package:flutter_tools/src/compile.dart:367:16)
+#9      _CompilationRequest.run (package:flutter_tools/src/compile.dart:345:30)
+#10     DefaultResidentCompiler._handleCompilationRequest (package:flutter_tools/src/compile.dart:688:23)
+#11     _rootRunUnary (dart:async/zone.dart:1436:47)
+#12     _CustomZone.runUnary (dart:async/zone.dart:1335:19)
+#13     _CustomZone.runUnaryGuarded (dart:async/zone.dart:1244:7)
+#14     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:341:11)
+#15     _DelayedData.perform (dart:async/stream_impl.dart:591:14)
+#16     _StreamImplEvents.handleNext (dart:async/stream_impl.dart:706:11)
+#17     _PendingEvents.schedule.<anonymous closure> (dart:async/stream_impl.dart:663:7)
+#18     _rootRun (dart:async/zone.dart:1420:47)
+#19     _CustomZone.run (dart:async/zone.dart:1328:19)
+#20     _CustomZone.runGuarded (dart:async/zone.dart:1236:7)
+#21     _CustomZone.bindCallbackGuarded.<anonymous closure> (dart:async/zone.dart:1276:23)
+#22     _rootRun (dart:async/zone.dart:1428:13)
+#23     _CustomZone.run (dart:async/zone.dart:1328:19)
+#24     _CustomZone.runGuarded (dart:async/zone.dart:1236:7)
+#25     _CustomZone.bindCallbackGuarded.<anonymous closure> (dart:async/zone.dart:1276:23)
+#26     _microtaskLoop (dart:async/schedule_microtask.dart:40:21)
+#27     _startMicrotaskLoop (dart:async/schedule_microtask.dart:49:5)
+#28     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:119:13)
+#29     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:188:5)
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel beta, 2.6.0-5.2.pre, on Microsoft Windows [Version 10.0.19043.1526], locale en-US)
+    • Flutter version 2.6.0-5.2.pre at D:\Workspace\Flutter\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 400608f101 (6 months ago), 2021-09-15 15:50:26 -0700
+    • Engine revision 1d521d89d8
+    • Dart version 2.15.0 (build 2.15.0-82.2.beta)
+
+[!] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+    • Android SDK at C:\Users\Thanh.00\AppData\Local\Android\Sdk
+    ✗ cmdline-tools component is missing
+      Run `path/to/sdkmanager --install "cmdline-tools;latest"`
+      See https://developer.android.com/studio/command-line for more details.
+    ✗ Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/docs/get-started/install/windows#android-setup for more details.
+
+[✓] Chrome - develop for the web
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[✓] Android Studio (version 2020.3)
+    • Android Studio at C:\Program Files\Android\Android Studio
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    • Java version OpenJDK Runtime Environment (build 11.0.10+0-b96-7249189)
+
+[✓] VS Code
+    • VS Code at C:\Users\Thanh.00\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.29.0
+
+[✓] Connected device (4 available)
+    • Android SDK built for x86 (mobile) • emulator-5554 • android-x86    • Android 10 (API 29) (emulator)
+    • Android SDK built for x86 (mobile) • emulator-5556 • android-x86    • Android 10 (API 29) (emulator)
+    • Chrome (web)                       • chrome        • web-javascript • Google Chrome 98.0.4758.102
+    • Edge (web)                         • edge          • web-javascript • Microsoft Edge 98.0.1108.43
+
+! Doctor found issues in 1 category.
+```

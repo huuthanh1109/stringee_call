@@ -1,0 +1,190 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.stringee.stringeeflutterpluginexample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:5:5-79
+12-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:6:5-76
+13-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:6:22-73
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:7:5-65
+14-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:7:22-62
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:8:5-71
+15-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:8:22-68
+16    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+16-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:9:5-80
+16-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:9:22-77
+17    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+17-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:10:5-81
+17-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:10:22-78
+18    <uses-permission android:name="android.permission.BLUETOOTH" />
+18-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:11:5-68
+18-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:11:22-65
+19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+19-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:12:5-77
+19-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:12:22-74
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:13:5-66
+20-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:13:22-63
+21    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+21-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+21-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-78
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-68
+22-->[:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-65
+23    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+23-->[:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-75
+23-->[:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:16:22-72
+24    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+24-->[:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-78
+24-->[:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:17:22-75
+25
+26    <application
+26-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:15:5-61:19
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\036fe01c778ec12d24eda64dcc515380\core-1.3.0\AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:icon="@mipmap/ic_launcher"
+29-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:16:9-43
+30        android:label="stringee_flutter_plugin_example" >
+30-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:17:9-56
+31        <activity
+31-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:18:9-45:20
+32            android:name="com.stringee.stringeeflutterpluginexample.MainActivity"
+32-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:19:13-41
+33            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+33-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:20:13-137
+34            android:exported="true"
+34-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:25:13-36
+35            android:hardwareAccelerated="true"
+35-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:21:13-47
+36            android:launchMode="singleTask"
+36-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:22:13-44
+37            android:theme="@style/LaunchTheme"
+37-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:23:13-47
+38            android:windowSoftInputMode="adjustPan" >
+38-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:24:13-52
+39            <intent-filter>
+39-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:26:13-29:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:27:17-69
+40-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:27:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:28:17-77
+42-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:28:27-74
+43            </intent-filter>
+44            <!--
+45                 This keeps the window background of the activity showing
+46                 until Flutter renders its first frame. It can be removed if
+47                 there is no splash screen (such as the default splash screen
+48                 defined in @style/LaunchTheme).
+49            -->
+50
+51
+52            <!-- Specify that the launch screen should continue being displayed -->
+53            <!-- until Flutter renders its first frame. -->
+54            <meta-data
+54-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:37:13-39:66
+55                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+55-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:38:17-81
+56                android:resource="@drawable/launch_background" />
+56-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:39:17-63
+57
+58            <!-- Theme to apply as soon as Flutter begins rendering frames -->
+59            <meta-data
+59-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:42:13-44:57
+60                android:name="io.flutter.embedding.android.NormalTheme"
+60-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:43:17-72
+61                android:resource="@style/NormalTheme" />
+61-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:44:17-54
+62        </activity>
+63
+64        <meta-data
+64-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:46:9-48:33
+65            android:name="flutterEmbedding"
+65-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:47:13-44
+66            android:value="2" />
+66-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:48:13-30
+67
+68        <uses-library
+68-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:49:9-51:40
+69            android:name="org.apache.http.legacy"
+69-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:50:13-50
+70            android:required="false" />
+70-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:51:13-37
+71
+72        <service
+72-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:53:9-57:44
+73            android:name="com.dexterous.flutterlocalnotifications.ForegroundService"
+73-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:54:13-85
+74            android:exported="false"
+74-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:55:13-37
+75            android:foregroundServiceType="mediaProjection"
+75-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:56:13-60
+76            android:stopWithTask="false" />
+76-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:57:13-41
+77        <service
+77-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:58:9-60:40
+78            android:name="com.stringee.stringeeflutterplugin.notification.StringeeForegroundService"
+78-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:59:13-101
+79            android:exported="false" />
+79-->D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:60:13-37
+80
+81        <provider
+81-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+82            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+82-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-82
+83            android:authorities="com.stringee.stringeeflutterpluginexample.flutter.image_provider"
+83-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-74
+84            android:exported="false"
+84-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+85            android:grantUriPermissions="true" >
+85-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+86            <meta-data
+86-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:75
+87                android:name="android.support.FILE_PROVIDER_PATHS"
+87-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+88                android:resource="@xml/flutter_image_picker_file_paths" />
+88-->[:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-72
+89        </provider>
+90
+91        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" />
+91-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-106
+91-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:19-103
+92        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver" >
+92-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-20:20
+92-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:19-107
+93            <intent-filter>
+93-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-19:29
+94                <action android:name="android.intent.action.BOOT_COMPLETED" />
+94-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-79
+94-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:25-76
+95                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+95-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-84
+95-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:25-81
+96                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+96-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
+96-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:25-79
+97                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+97-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:17-82
+97-->[:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:25-79
+98            </intent-filter>
+99        </receiver>
+100    </application>
+101
+102</manifest>

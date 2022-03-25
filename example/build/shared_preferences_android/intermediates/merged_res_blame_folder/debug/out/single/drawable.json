@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\stringee_flutter_plugin\\example\\build\\shared_preferences_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Thanh.00\\.gradle\\caches\\transforms-2\\files-2.1\\df087b5e2f442bf511b04dd5f84bb83e\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]

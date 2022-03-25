@@ -1,0 +1,313 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+MERGED from [:shared_preferences_android] D:\Workspace\stringee_flutter_plugin\example\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\Workspace\stringee_flutter_plugin\example\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:permission_handler] D:\Workspace\stringee_flutter_plugin\example\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\0b34a622c528d4d14bde5a6a6c5d9e05\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\40499f9c28f406259e3bd72d7c765843\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\032eb938a427bd5a63079beb47771091\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\c6e778544c3daa9334b7e39d7723ab0b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\fb1a0924cbad762d0f581f6d187fd952\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\4f86d4dc587016df3bcd030915217b7a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\a47101ded039236e94007b8beb4d0848\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\036fe01c778ec12d24eda64dcc515380\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\31c5a9d741217c1f32107f5a83ea7081\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\597822b5f1d6b2ae8477c0a08baab41d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\0f9f9612216e1658ded37de1f7493c8e\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\db70915db5482881b82db5efafd295dc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\ee32a41b299ebcf4e78d691344f52243\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\e8a9ba95fcf0cc98ab87a4d17d4050b7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\7d374df60242afdc8e15b25a3f7d8fb2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\865113f81ce305d7e09c25382653c811\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.stringee.sdk.android:stringee-android-sdk:1.8.5] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\773bd81637c274cd3d792ee3580bc98c\jetified-stringee-android-sdk-1.8.5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\e1677806b30ce9f8be0ea94d91ab95ba\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+	package
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:2:5-56
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:1-62:12
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:6:5-76
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-76
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CAMERA
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-65
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:8:5-71
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-71
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:9:5-80
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-80
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-81
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:11:5-68
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-68
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:13:5-66
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-66
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:13:22-63
+application
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:15:5-61:19
+MERGED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\036fe01c778ec12d24eda64dcc515380\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\036fe01c778ec12d24eda64dcc515380\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\ee32a41b299ebcf4e78d691344f52243\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\ee32a41b299ebcf4e78d691344f52243\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\865113f81ce305d7e09c25382653c811\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\865113f81ce305d7e09c25382653c811\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\036fe01c778ec12d24eda64dcc515380\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:17:9-56
+	android:icon
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:16:9-43
+activity#com.stringee.stringeeflutterpluginexample.MainActivity
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:18:9-45:20
+	android:launchMode
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:22:13-44
+	android:hardwareAccelerated
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:24:13-52
+	android:exported
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:25:13-36
+	android:configChanges
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:20:13-137
+	android:theme
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:37:13-39:66
+	android:resource
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:39:17-63
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:38:17-81
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:42:13-44:57
+	android:resource
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:44:17-54
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:43:17-72
+meta-data#flutterEmbedding
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:46:9-48:33
+	android:value
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:48:13-30
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:47:13-44
+uses-library#org.apache.http.legacy
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:49:9-51:40
+	android:required
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:50:13-50
+service#com.dexterous.flutterlocalnotifications.ForegroundService
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:53:9-57:44
+	android:exported
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:55:13-37
+	android:stopWithTask
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:57:13-41
+	android:foregroundServiceType
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:56:13-60
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:54:13-85
+service#com.stringee.stringeeflutterplugin.notification.StringeeForegroundService
+ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:58:9-60:40
+	android:exported
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml:59:13-101
+uses-sdk
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] D:\Workspace\stringee_flutter_plugin\example\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] D:\Workspace\stringee_flutter_plugin\example\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Workspace\stringee_flutter_plugin\example\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Workspace\stringee_flutter_plugin\example\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] D:\Workspace\stringee_flutter_plugin\example\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] D:\Workspace\stringee_flutter_plugin\example\build\permission_handler\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\0b34a622c528d4d14bde5a6a6c5d9e05\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\0b34a622c528d4d14bde5a6a6c5d9e05\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\40499f9c28f406259e3bd72d7c765843\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\40499f9c28f406259e3bd72d7c765843\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\032eb938a427bd5a63079beb47771091\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\032eb938a427bd5a63079beb47771091\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\c6e778544c3daa9334b7e39d7723ab0b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\c6e778544c3daa9334b7e39d7723ab0b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\fb1a0924cbad762d0f581f6d187fd952\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\fb1a0924cbad762d0f581f6d187fd952\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\4f86d4dc587016df3bcd030915217b7a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\4f86d4dc587016df3bcd030915217b7a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\a47101ded039236e94007b8beb4d0848\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\a47101ded039236e94007b8beb4d0848\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\036fe01c778ec12d24eda64dcc515380\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\036fe01c778ec12d24eda64dcc515380\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\31c5a9d741217c1f32107f5a83ea7081\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\31c5a9d741217c1f32107f5a83ea7081\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\597822b5f1d6b2ae8477c0a08baab41d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\597822b5f1d6b2ae8477c0a08baab41d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\0f9f9612216e1658ded37de1f7493c8e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\0f9f9612216e1658ded37de1f7493c8e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\db70915db5482881b82db5efafd295dc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\db70915db5482881b82db5efafd295dc\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\ee32a41b299ebcf4e78d691344f52243\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\ee32a41b299ebcf4e78d691344f52243\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\e8a9ba95fcf0cc98ab87a4d17d4050b7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\e8a9ba95fcf0cc98ab87a4d17d4050b7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\7d374df60242afdc8e15b25a3f7d8fb2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\7d374df60242afdc8e15b25a3f7d8fb2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\865113f81ce305d7e09c25382653c811\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\865113f81ce305d7e09c25382653c811\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.stringee.sdk.android:stringee-android-sdk:1.8.5] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\773bd81637c274cd3d792ee3580bc98c\jetified-stringee-android-sdk-1.8.5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.stringee.sdk.android:stringee-android-sdk:1.8.5] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\773bd81637c274cd3d792ee3580bc98c\jetified-stringee-android-sdk-1.8.5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\e1677806b30ce9f8be0ea94d91ab95ba\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Thanh.00\.gradle\caches\transforms-2\files-2.1\e1677806b30ce9f8be0ea94d91ab95ba\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\stringee_flutter_plugin\example\android\app\src\main\AndroidManifest.xml
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] D:\Workspace\stringee_flutter_plugin\example\build\image_picker\intermediates\merged_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:13:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\Workspace\stringee_flutter_plugin\example\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:25-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from [:stringee_flutter_plugin] D:\Workspace\stringee_flutter_plugin\example\build\stringee_flutter_plugin\intermediates\merged_manifest\debug\AndroidManifest.xml:17:22-75
